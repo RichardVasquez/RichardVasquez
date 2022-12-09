@@ -1,4 +1,4 @@
-<a rel="me" href="https://fosstodon.org/@h3net">Mastodon</a>
+<a rel="me" href="https://fosstodon.org/@h3net" foo="bar" baz="foo">Mastodon</a>
 <!--
 **RichardVasquez/RichardVasquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
