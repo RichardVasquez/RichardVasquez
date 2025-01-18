@@ -1,4 +1,6 @@
 Nothing here yet
+
+<a ref="me" href="https://infosec.exchange/richard_vasquez">Mastodon verification</a>
 <!--
 **RichardVasquez/RichardVasquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
